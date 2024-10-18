@@ -9,11 +9,20 @@ public class test1 {
 
 		System.out.println("1st pull");
 		System.out.println("It's from Eng1");
+
+		System.out.println("I am Eng1 Pushing again without pull");
+		System.out.println("Conflict-4");
+
 		
 		System.out.println("I am again pushing to check conflict");
 		System.out.println("Conflict-2");
 		
+<<<<<<< HEAD
 		System.out.println("Conflict -6");
+=======
+		System.out.println("conflict-5");
+
+>>>>>>> branch 'master' of https://github.com/Ashweini/GitBashPrac03.git
 
 	}
 
