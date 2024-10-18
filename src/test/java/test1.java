@@ -12,6 +12,8 @@ public class test1 {
 		
 		System.out.println("I am again pushing to check conflict");
 		System.out.println("Conflict-2");
+		
+		System.out.println("Conflict -6");
 
 	}
 
